@@ -16,3 +16,5 @@ No power BI, criei o relacionamento entre as bases com as suas respectivas chave
 
 ## 03. Considerações finais
 Devido aos meus compromissos, tive pouco tempo para dedidar na elaboração de um projeto mais aprimorado, contudo, o resultado final me agradou e foi um bom desafio contra o tempo. Botei as minhas habilidades e dedicação a prova e alcancei um resultado satisfatório.
+
+Esse projeto foi uma corrida contra o tempo para mim, devido ao meu horário de trabalho, mas fico contente com o resultado alcançado e sei que tem pontos a serem melhorados e aprimorados.
